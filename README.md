@@ -22,3 +22,5 @@
 
 ## 🔥 Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)
+
+https://github.com/devicons/devicon
