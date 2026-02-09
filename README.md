@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Sharan Kumar Rathod</h1>
+<h1 align="center">👨‍💻 SharanKumar Rathod</h1>
 <h3 align="center">🚀 Building Scalable Backend Systems | Java • Spring Boot • Microservices • Cloud</h3>
 
 
