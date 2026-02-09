@@ -1,4 +1,6 @@
-#  Hi, I'm SharanKumar Rathod
+<h1 align="center">👨‍💻 Sharan Kumar Rathod</h1>
+<h3 align="center">🚀 Building Scalable Backend Systems | Java • Spring Boot • Microservices • Cloud</h3>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQ1cWc2d2k0NjF1Mmxhb3F4cG14bWhkb3M5Z2FhYzR3cXRrYTB5diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
