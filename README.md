@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Building Scalable Backend Systems | Java • Spring Boot • Microservices • Cloud</h3>
 
 
-ChatGPT Image Feb 9, 2026, 08_31_25 PM.png
+[ChatGPT Image Feb 9, 2026, 08_31_25 PM.png](https://github.com/sharankumarrathod/sharankumarrathod/commit/c4b6c5fa09909a60f107c43797075577a1000059)
 
 
 ## 🚀 About Me
