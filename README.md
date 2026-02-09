@@ -8,7 +8,13 @@
 - 🔭 I’m working as Java Backend Developer
 - 🌱 Learning Microservices & Cloud
 - 💬 Ask me about Java, Spring Boot, MySQL
-- 📫 Reach me: sharan@gmail.com
+- 📫 Reach me: rathod7996@gmail.com
+- 
+  <p align="center">
+  <a href="https://www.linkedin.com/in/sharankumarrathod" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sharan%20Kumar%20Rathod-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
