@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Building Scalable Backend Systems | Java • Spring Boot • Microservices • Cloud</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sharankumarrathod/sharankumarrathod/main/ChatGPT%20Image%20Feb%209%2C%202026%2C%2008_31_25%20PM.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/sharankumarrathod/sharankumarrathod/main/ChatGPT%20Image%20Feb%209%2C%202026%2C%2008_31_25%20PM.png" width="1200"/>
 </p>
 
 
