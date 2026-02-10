@@ -1,9 +1,10 @@
 <h1 align="center">👨‍💻 SharanKumar Rathod</h1>
 <h3 align="center">🚀 Building Scalable Backend Systems | Java • Spring Boot • Microservices • Cloud</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQ1cWc2d2k0NjF1Mmxhb3F4cG14bWhkb3M5Z2FhYzR3cXRrYTB5diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
+</p>
 
-<p[[[ChatGPT Image Feb 9, 2026, 08_31_25 PM.png](https://github.com/sharankumarrathod/sharankumarrathod/commit/c4b6c5fa09909a60f107c43797075577a1000059)](https://raw.githubusercontent.com/sharankumarrathod/sharankumarrathod/c4b6c5fa09909a60f107c43797075577a1000059/ChatGPT%20Image%20Feb%209%2C%202026%2C%2008_31_25%20PM.png)](https://raw.githubusercontent.com/sharankumarrathod/sharankumarrathod/main/ChatGPT%20Image%20Feb%209,%202026,%2008_31_25%20PM.png</p>
-)
 
 
 ## 🚀 About Me
