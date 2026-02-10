@@ -6,7 +6,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sharankumarrathod/sharankumarrathod/refs/heads/main/ChatGPT%20Image%20Feb%2010%2C%202026%2C%2011_32_04%20AM.png" width="1200"/>
+  <img src="https://raw.githubusercontent.com/sharankumarrathod/sharankumarrathod/refs/heads/main/ChatGPT%20Image%20Feb%2010%2C%202026%2C%2011_32_04%20AM.png" width="2000"/>
 </p>
 
 
