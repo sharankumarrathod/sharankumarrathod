@@ -2,10 +2,9 @@
 <h3 align="center">🚀 Building Scalable Backend Systems | Java • Spring Boot • Microservices • Cloud</h3>
 
 <p align="center">
-  <a href="https://github.com/sharankumarrathod">
-    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
-  </a>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
 </p>
+
 
 
 
